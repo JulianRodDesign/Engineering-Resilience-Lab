@@ -1,2 +1,1 @@
-# Engineering-Resilience-Lab
-Laboratorio de aplicaciones de principios de ingeniería mecánica (tensión, fatiga y resiliencia) a la seguridad de datos financieros.
+En este primer ejercicio, traslado el concepto de Límite Elástico a la ciberseguridad. Una IP no es solo un número; en mi modelo, es una viga que soporta carga. Si la 'carga' de datos es constante y fuerte, la pieza falla. Aquí demuestro cómo la Resiliencia (la capacidad de disipar esa tensión) es lo que mantiene vivo a un banco.
